@@ -1,5 +1,6 @@
 # RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
+Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
+Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 **!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2020.1_G1_ProjetoPandora!!**
@@ -8,8 +9,8 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial.
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número do Grupo**: XX<br>
+**Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 |Matrícula | Aluno |
